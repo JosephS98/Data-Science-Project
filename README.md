@@ -4,4 +4,4 @@
 
 ## Notebooks
 
-<a href="https://colab.research.google.com/drive/1nspYV438terChZCCSM7VtMB8nBM76uA9?usp=sharing">Chess Board Generator</a>
+<a href="https://colab.research.google.com/drive/1nspYV438terChZCCSM7VtMB8nBM76uA9?usp=sharing">Chess Position Generator</a>
