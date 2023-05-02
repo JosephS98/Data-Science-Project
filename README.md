@@ -12,4 +12,4 @@
 
 ## YouTube video
 
-<a href="<a href="https://colab.research.google.com/drive/1fFoAaniAFrarSV3PbCBW4bXAUc6YLMYb?usp=sharing">AlexNet Model</a>">Video Explanation Of Project</a>
+<a href="https://youtu.be/JEBB5IRFaPI">Video Explanation Of Project</a>
