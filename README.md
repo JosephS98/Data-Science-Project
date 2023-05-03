@@ -1,4 +1,4 @@
-# DataScience Project
+# Data Science Project
 
 ![Chess Background Image](https://images.ctfassets.net/3s5io6mnxfqz/7nKOvmpsbCWtmOEOiZ0vnp/3daffd74ed4c962ab8e851a4e4a79518/AdobeStock_217368754.jpeg)
 
